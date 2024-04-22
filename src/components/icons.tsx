@@ -1433,6 +1433,16 @@ export const FontFamilyCodeIcon = createIcon(
   modifiedTablerIconProps,
 );
 
+export const FontFamilyAllsetoIcon = createIcon(
+  <>
+    <path
+      fill="#fff"
+      d="M555.231787 330.203429v-107.997284h-68.202727v108.038827H263.433935v273.457531H487.02906v210.976899h68.202727V603.70431h224.21827V330.203429H555.231787z m-68.202727 209.074952h-157.337694v-144.605675h157.335888v144.605675z m226.131053 0H555.195662v-144.605675h157.962645v144.605675z"
+    />
+  </>,
+  { width: 1024, height: 1024 },
+);
+
 export const TextAlignLeftIcon = createIcon(
   <g
     stroke="currentColor"

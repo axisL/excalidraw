@@ -45,6 +45,7 @@ import {
   TextAlignCenterIcon,
   TextAlignRightIcon,
   FillZigZagIcon,
+  FontFamilyAllsetoIcon,
 } from "../components/icons";
 import {
   DEFAULT_FONT_FAMILY,
@@ -756,7 +757,7 @@ export const actionChangeFontFamily = register({
       {
         value: FONT_FAMILY.Allseto,
         text: "手写",
-        icon: FontFamilyCodeIcon,
+        icon: FontFamilyAllsetoIcon,
         testId: "font-family-code",
       },
     ];
