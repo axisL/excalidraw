@@ -753,6 +753,12 @@ export const actionChangeFontFamily = register({
         icon: FontFamilyCodeIcon,
         testId: "font-family-code",
       },
+      {
+        value: FONT_FAMILY.Allseto,
+        text: "手写",
+        icon: FontFamilyCodeIcon,
+        testId: "font-family-code",
+      },
     ];
 
     return (
